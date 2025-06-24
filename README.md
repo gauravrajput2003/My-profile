@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gaurav Singh, 3rd year Student of Computer Science. </h2>
+<h2 align="left">Hi 👋! My name is Gaurav Singh, Final year Student of Computer Science. </h2>
 
 ###
 
