@@ -22,7 +22,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravrajput2003>&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravrajput2003&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravrajput2003&layout=compact&theme=dracula" alt="Top Languages" height="160" />
 </p>
 
