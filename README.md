@@ -22,8 +22,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=dracula" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravrajput2003>&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravrajput2003&layout=compact&theme=dracula" alt="Top Languages" height="160" />
 </p>
 
 ---
@@ -35,11 +35,12 @@
 
 ---
 
+
 ### 🔭 Projects & Experience
 
-- 🔹 **E‑commerce App** – Built with MERN stack, JWT Auth, Stripe payments.
-- 🔹 **Real-time Chat App** – Implemented with React, Node.js, Socket.io.
-- ⚙️ Experienced in: **REST APIs**, **Redux**, **MongoDB Aggregation**, **CI/CD Pipelines**
+- 🎙 **Voice on Poverty** – A voice-interactive web app aimed at raising awareness and collecting stories related to poverty. Features include voice-to-text, community contributions, and sentiment analysis.
+- 🎬 **Movies Recommendation System** – Built using Python and machine learning techniques (content-based & collaborative filtering), this system recommends movies based on user preferences and similarity scores.
+- ⚙️ Experienced in: **REST APIs**, **Redux**, **MongoDB Aggregation**, **CI/CD Pipelines**, **Socket.io**, **JWT Auth**
 
 ---
 
