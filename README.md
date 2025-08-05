@@ -65,14 +65,14 @@
 
 ## 🎯 Featured Projects
 
-### 🎬 [Movie Recommendation System](https://github.com/gauravrajput2003/movie-recommendation)
+### 🎬 [Movie Recommendation System](https://github.com/gauravrajput2003/Netflix-gpt)
 **Tech Stack:** React.js, Firebase, OpenAI API, TMDB API
 - 🤖 AI-powered recommendations using Google Gemini APIs
 - 🔐 Secure Firebase Authentication with real-time Firestore
 - 🌍 Multi-language support (5 languages)
 - 📈 **Results:** 40% increase in user session duration, 25% boost in engagement
 
-### 👥 [DevNexus - Developer Networking Platform](https://github.com/gauravrajput2003/devnexus)
+### 👥 [DevNexus - Developer Networking Platform](https://github.com/gauravrajput2003/DevTinder)
 **Tech Stack:** MERN Stack, JWT, Tailwind CSS
 - 🔗 Full-stack developer networking platform
 - 🛡️ JWT authentication with Bcrypt hashing
@@ -98,8 +98,8 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/gauravsingh032002)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gauravsingh03)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gauravrajput2003/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/xiyjzq)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/gauravsingh032002)
 
 </div>
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravsingh032002@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravkumarsingh010103@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-singh-aa7a0a196/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravrajput2003)
 
