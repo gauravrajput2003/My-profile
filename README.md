@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Final Year B.Tech CSE Student** at ABES Engineering College (CGPA: 7.4)
+- 🎓 **Final Year B.Tech CSE Student** at ABES Engineering College (CGPA: 7.5)
 - 💼 **Software Engineer Intern** at Programming Pathshala (May-June 2025)
 - 🏆 **800+ DSA Problems Solved** across multiple platforms
 - 📍 Based in Aurangabad, Bihar, India
